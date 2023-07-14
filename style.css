@@ -1,0 +1,49 @@
+.container {
+    margin-top: 100px;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+
+  .navbar .nav-link {
+    cursor: pointer;
+  }
+
+  #todoListPage {
+    display: none;
+  }
+
+  #logoutPage {
+    display: none;
+  }
+
+ 
+      
+          .completed {
+            text-decoration: line-through;
+          }
+      
+          #congratsMessage {
+            display: none;
+          }
+      
+  .container {
+    margin-top: 100px;
+  }
+
+  .navbar {
+    margin-bottom: 20px;
+  }
+
+  .navbar .nav-link {
+    cursor: pointer;
+  }
+
+  #todoListPage {
+    display: none;
+  }
+
+  #logoutPage {
+    display: none;
+  }
